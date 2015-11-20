@@ -279,75 +279,75 @@ UI_20150317_000278	{@st59}Bracelete 2{/}
 UI_20150317_000279	{@st59}Braçadeira{/}
 UI_20150317_000280	{@st59}Procurar{/}
 UI_20150317_000281	Peso
-UI_20150317_000282
-UI_20150317_000283
-UI_20150317_000284
-UI_20150317_000285
-UI_20150317_000286
-UI_20150317_000287
-UI_20150317_000288
-UI_20150317_000289
-UI_20150317_000290
-UI_20150317_000291
-UI_20150317_000292
-UI_20150317_000293
-UI_20150317_000294
-UI_20150317_000295
-UI_20150317_000296
-UI_20150317_000297
-UI_20150317_000298
-UI_20150317_000299
-UI_20150317_000300
-UI_20150317_000301
-UI_20150317_000302
-UI_20150317_000303
-UI_20150317_000304
-UI_20150317_000305
-UI_20150317_000306
-UI_20150317_000307
-UI_20150317_000308
-UI_20150317_000309
-UI_20150317_000310
-UI_20150317_000311
-UI_20150317_000312
-UI_20150317_000313
-UI_20150317_000314
-UI_20150317_000315
-UI_20150317_000316
-UI_20150317_000317
-UI_20150317_000318
-UI_20150317_000319
-UI_20150317_000320
-UI_20150317_000321
-UI_20150317_000322
-UI_20150317_000323
-UI_20150317_000324
-UI_20150317_000325
-UI_20150317_000326
-UI_20150317_000327
-UI_20150317_000328
-UI_20150317_000329
-UI_20150317_000330
-UI_20150317_000331
-UI_20150317_000332
-UI_20150317_000333
-UI_20150317_000334
-UI_20150317_000335
-UI_20150317_000336
-UI_20150317_000337
-UI_20150317_000338
-UI_20150317_000339
-UI_20150317_000340
-UI_20150317_000341
-UI_20150317_000342
-UI_20150317_000343
-UI_20150317_000344
-UI_20150317_000345
-UI_20150317_000346
-UI_20150317_000347
-UI_20150317_000348
-UI_20150317_000349
-UI_20150317_000350
+UI_20150317_000282	{memo X}{@st43}Encantar Equipamento{/}
+UI_20150317_000283	{@st59}Fechar Janela de Reparação de Item{/}
+UI_20150317_000284	{memo X}{@st42}Disponível para Encantamento
+UI_20150317_000285	{memo X}{@st42}Consumir{/}
+UI_20150317_000286	{memo X}{@st42}Correr
+UI_20150317_000287	{memo X}{@st42}Alvo do item{/}
+UI_20150317_000288	{@st59}Anel 1{/}
+UI_20150317_000289	{@st43}Criação de Item{/}
+UI_20150317_000290	{@st42b}Mostrar somente itens criavéis{/}
+UI_20150317_000291	{@st59}Fechar Criação de Item {/}
+UI_20150317_000292	{@st43}{s22}Dividir item
+UI_20150317_000293	{@st59}Entre com a quantidade{/}
+UI_20150317_000294	Barra de HP do Monstro
+UI_20150317_000295	{@st44}Item Set acquired{/}
+UI_20150317_000296	Teclado do Guerreiro
+UI_20150317_000297	Assassinatos
+UI_20150317_000298	99 minutos 99 segundos
+UI_20150317_000299	38000 pontos
+UI_20150317_000300	Poção de Velocidade Reforçada
+UI_20150317_000301	{@st41}Confirmar{/}
+UI_20150317_000302	${@st59b} Jornal de Aventuras {nl}{@st59s}- Seu progresso do jogo é gravado no Jornal de Aventuras. {nl} - Você pode progredir o seu Índice de Aventura através de conteúdos, tais como: obtenção de itens, caçar monstros, criação e exploração de mapas {nl}    Índice de Aventura: O total de todos os seus índices. {nl}    Crescimento : 5 pontos por nível de personagem e nível de classe {nl}    Itens : Equipamento: grau X10 pontos, Livros : 10 pontos, Outros : 1 ponto {nl}    Monstros : 10 pontos por monstro (50 pontos para tipos Chefe ) {nl}    Mapas : 1 ponto por 10% explorado {nl}    Missões : 1 ponto por missão {nl}    Conquistas : Varia por conquista {nl}    Criação : 10 pontos {nl}    Coleções : 5 pontos por deck e 45 pontos quando concluído {nl} - Você pode receber prêmios especiais a partir de um NPC na cidade, dependendo do seu índice de aventura. {/}
+UI_20150317_000303	{@sti7}{s22}{ds}Conquistas{/}
+UI_20150317_000304	{@st42b}{#22FF22} Top 10% / %s Pontos{/}
+UI_20150317_000305	{@st42b} Média / %s Pontos {/}
+UI_20150317_000306	1º / %s Pontos
+UI_20150317_000307	Rank %s
+UI_20150317_000308	%s Pontos
+UI_20150317_000309	Profissão
+UI_20150317_000310	Time
+UI_20150317_000311	{@st59}Fechar Jornal de Aventuras{/}
+UI_20150317_000312	{@st43}Ranking do Jornal de Aventuras{/}
+UI_20150317_000313	{@st43}{s22}Rank   
+UI_20150317_000314	{@st43}{s22}Nome
+UI_20150317_000315	{@st43}{s22}Pontuação
+UI_20150317_000316	{@st41}Detalhes{/}
+UI_20150317_000317	{@st43}Iniciar Criação{/}
+UI_20150317_000318	{@st59}Iniciar criação de item.{/}
+UI_20150317_000319	{@st44}Teclado{/}
+UI_20150317_000320	{@st42}Limite de Tempo
+UI_20150317_000321	{@st56}Assassinato{/}
+UI_20150317_000322	{@st56}Overkill{/}
+UI_20150317_000323	{@st56}Tiro{/}
+UI_20150317_000324	{@st56}Morto{/}
+UI_20150317_000325	Poder de Feitiço
+UI_20150317_000326	Defesa
+UI_20150317_000327	Resistência Mágica
+UI_20150317_000328	Taxa de Ataque Crítico
+UI_20150317_000329	${@st43}Soquete{/}
+UI_20150317_000330	{@st59}Fechar o Menjamento de Soquete{/}
+UI_20150317_000331	Porfavor insira seus itens
+UI_20150317_000332	Potêncial
+UI_20150317_000333	{memo X}Custo adicional de soquete : {#ff9933}%s{/}{nl}Custo de extração da Gema : {#ff9933}%s{/}
+UI_20150317_000334	{@st41b}Adicionar Soquete
+UI_20150317_000335	{@st41b}Extrair Gema
+UI_20150317_000336	{@st41}Criar{/}
+UI_20150317_000337	{@st41}%s %s und
+UI_20150317_000338	Área do Mapa
+UI_20150317_000339	{memo X}Área Explorada : 95.5%
+UI_20150317_000340	{memo X}{@st45tw}Área explorada %s% {/}
+UI_20150317_000341	{@st59}Fechar o mapa (M){/}
+UI_20150317_000342	{@st41}Mapa{/}
+UI_20150317_000343	Shift(limpar), Ctrl(preenchimento central)
+UI_20150317_000344	{ol}Título
+UI_20150317_000345	{@st41}Adicionar{/}
+UI_20150317_000346	{@st41}Excluir{/}
+UI_20150317_000347	{@st41}Salvar{/}
+UI_20150317_000348	{@st41}Auto{/}
+UI_20150317_000349	{@st41}Repor{/}
+UI_20150317_000350	{@st59}Defina a quantidade.{/}
 UI_20150317_000351	{ol}Grupo
 UI_20150317_000352	{ol}Mensagem
 UI_20150317_000353	{ol}Som
